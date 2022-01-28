@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide!"
 ---
-Your text
+Replaced with something else per instruction.
 Use the left arrow to go back!
